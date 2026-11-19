@@ -91,7 +91,7 @@
     --svgIconFilter: none;
     --clearLogoFilter: none;
 
-    --accentColor: hsl(243, 75%, 62%);
+    --accentColor: red
     --accentHoverColor: rgb(117, 111, 226);
     --semiTransparentAccentColor: rgba(255, 255, 255, 0.125);
 
