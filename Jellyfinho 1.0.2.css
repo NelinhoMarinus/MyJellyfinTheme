@@ -581,7 +581,7 @@ select {
 
 .card-hoverable:hover .cardScalable,
 .card-hoverable:hover .itemSelectionPanel {
-    transform: scale(1.10);
+    transform: scale(1.02);
 }
 
 .card-hoverable .cardScalable:active {
