@@ -1,0 +1,2 @@
+# MyJellyfinTheme
+MyJellyfinTheme
